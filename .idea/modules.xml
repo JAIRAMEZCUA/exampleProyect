@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exampleProyect.iml" filepath="$PROJECT_DIR$/.idea/modules/exampleProyect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/exampleProyect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/exampleProyect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/513003939/exampleProyect.react-native-fad.iml" filepath="$PROJECT_DIR$/.idea/modules/513003939/exampleProyect.react-native-fad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/980877022/exampleProyect.react-native-fad-bio.iml" filepath="$PROJECT_DIR$/.idea/modules/980877022/exampleProyect.react-native-fad-bio.iml" />
+    </modules>
+  </component>
+</project>

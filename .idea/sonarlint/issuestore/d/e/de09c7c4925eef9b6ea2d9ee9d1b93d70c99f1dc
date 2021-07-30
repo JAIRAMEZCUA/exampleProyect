@@ -1,0 +1,12 @@
+
+9
+java:S1128"Remove this duplicated import.(ßû˜™ûÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'com.reactlibrary.fad.FadPackage'.(ßû˜™ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(à¢Ñ
+_
+java:S2147I"DCombine this catch with the one at line 71, which has the same body.(¼¯•¶ùÿÿÿÿ
+Z
+java:S2147K"DCombine this catch with the one at line 71, which has the same body.(Å¡ß
+Z
+java:S2147M"DCombine this catch with the one at line 71, which has the same body.(åþáÿ

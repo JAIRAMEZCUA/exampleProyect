@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<contractDataDto>
+   <acceptanceLegend>Yo NombreDelFirmante acepto la firma del documento NombreDelDocumento, hoy FechaDeFirma.</acceptanceLegend>
+   <acceptanceVideoNotRequired>false</acceptanceVideoNotRequired>
+   <certificate>
+      <page>1</page>
+      <positionX1>11.1417</positionX1>
+      <positionX2>91.1417</positionX2>
+      <positionY1>70.939</positionY1>
+      <positionY2>80.03639999999999</positionY2>
+   </certificate>
+   <cnsf></cnsf>
+   <contractName>Contrato Suisse</contractName>
+   <currentVersion>0</currentVersion>
+   <dateContractRequisition>2018-06-07 15:45</dateContractRequisition>
+   <idCompany>ba4d7377-14b5-4bae-b507-7bd654b1991d</idCompany>
+   <idRequisition>779858fe-dfb0-49fd-a26e-05b4b668a935</idRequisition>
+   <idRequisitionClient>635</idRequisitionClient>
+   <localizationNotRequired>false</localizationNotRequired>
+   <nameCompany>Credit Suisse</nameCompany>
+   <ownerName>Credit Suisse</ownerName>
+   <signers>
+      <order>1</order>
+      <mail>jcastro@na-at.com.mx</mail>
+      <phone>+5215548757839</phone>
+      <authenticationType>Código de Seguridad</authenticationType>
+      <authenticationData>1234</authenticationData>
+      <signatures>
+         <signerType>Agente</signerType>
+         <page>1</page>
+         <positionX1>32.6298</positionX1>
+         <positionX2>67.5028</positionX2>
+         <positionY1>13.975</positionY1>
+         <positionY2>18.6712</positionY2>
+         <centerX>90.22475</centerX>
+         <centerY>62.275205</centerY>
+         <optional>false</optional>
+      </signatures>
+      <signerName></signerName>
+   </signers>
+   <validity>90</validity>
+</contractDataDto>

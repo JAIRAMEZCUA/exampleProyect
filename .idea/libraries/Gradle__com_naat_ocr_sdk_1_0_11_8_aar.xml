@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.naat:ocr.sdk:1.0.11.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bab7e47945eb59a758b84afc9866f909/jetified-ocr.sdk-1.0.11.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bab7e47945eb59a758b84afc9866f909/jetified-ocr.sdk-1.0.11.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bab7e47945eb59a758b84afc9866f909/jetified-ocr.sdk-1.0.11.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bab7e47945eb59a758b84afc9866f909/jetified-ocr.sdk-1.0.11.8/jars/libs/dexprotector-gradle-plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
